@@ -1,0 +1,19 @@
+{
+  "name": "lazy-loading-reg",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "blead",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.4.24",
+    "redis": "^2.8.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "ttl-mem-cache": "^4.1.0"
+  }
+}
